@@ -2,7 +2,7 @@
 
 An example of FlatList item animation on scrolling.
 
-<img src=".screen.gif" width="300"></img>
+<img src="./screen.gif" width="300"></img>
 
 ## Installation
 
