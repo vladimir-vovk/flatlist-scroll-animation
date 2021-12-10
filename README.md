@@ -1,4 +1,4 @@
-# FlatList Item Animation on Scroll
+# On Scroll FlatList Item Animation
 
 An example of FlatList item animation on scrolling.
 
