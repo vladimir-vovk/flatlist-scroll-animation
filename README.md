@@ -1,6 +1,6 @@
 # On Scroll FlatList Item Animation
 
-An example of FlatList item animation on scrolling.
+An example of FlatList item on scroll animation using vanilla React Native Animated.
 
 <img src="./screen.gif" width="300"></img>
 
